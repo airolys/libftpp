@@ -20,5 +20,5 @@ date.
 So gear up for an incredible adventure, because by the end, you won’t just have a toolbox!
 you’ll have an arsenal of skills that will empower you to take on any software project in
 the future
-# about
+# About
 Project done as part of the 42 Paris school curriculum.
